@@ -20,7 +20,7 @@ float xmax=1;
 float ymin=0;
 float ymax=1;
 float g = -2;
-float k = 1000;
+float k = 750;
 float my = 3.0e-8;
 float f = 20.3;
 int maxiter=2500;
@@ -34,7 +34,7 @@ float *density;
 float *pressure;
 float *fx;
 float *fy;
-int i,j,iter;
+int i,j,iter,frame=0;
 
 struct Point {
   float x;
@@ -171,6 +171,7 @@ void DrawScreen(SDL_Surface* screen){
     if(SDL_MUSTLOCK(screen)){
         if(SDL_LockSurface(screen) < 0) return;
     }
+    SDL_FillRect(screen,NULL, 0x000000);
     for(i=0; i<n; i++){
       int x = px[i]*WIDTH;
       int y = py[i]*WIDTH;
@@ -181,7 +182,6 @@ void DrawScreen(SDL_Surface* screen){
 
     if(SDL_MUSTLOCK(screen)) SDL_UnlockSurface(screen);
     SDL_Flip(screen); 
-    SDL_FillRect(screen,NULL, 0x000000);
 }
 
 int main(){
@@ -293,6 +293,12 @@ int main(){
           break;
       }
     }
+    // Uncomment to save screenshots of every 10th frame.
+    //if(iter%10==0){
+    //  char *a = malloc(sizeof(char)*100);
+    //  sprintf(a, "tmp/FILE%05d.BMP", frame++);
+    //  SDL_SaveBMP(screen, a);
+    //}
   }
 
   SDL_Quit();
