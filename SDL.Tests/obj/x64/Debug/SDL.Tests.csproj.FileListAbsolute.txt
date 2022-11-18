@@ -1,0 +1,11 @@
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL2.dll
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.exe.config
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.exe
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.pdb
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL2-CS.dll
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.AssemblyReference.cache
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.CopyComplete
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.exe
+C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.pdb
