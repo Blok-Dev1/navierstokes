@@ -16,3 +16,14 @@
 *.exe
 *.out
 *.app
+/.vs/navierstokes/DesignTimeBuild/.dtbcache.v2
+/.vs/navierstokes/v17/.futdcache.v2
+/.vs/navierstokes/v17/.suo
+/.vs/ProjectEvaluation/navierstokes.metadata.v7.bin
+/.vs/ProjectEvaluation/navierstokes.projects.v7.bin
+/.vs/VSWorkspaceState.json
+/NavierStokes.Core/obj/x64/Debug/net6.0/NavierStokes.Core.assets.cache
+/NavierStokes.Core/obj/x64/Debug/net6.0/NavierStokes.Core.GeneratedMSBuildEditorConfig.editorconfig
+/NavierStokes.Core/obj/NavierStokes.Core.csproj.nuget.dgspec.json
+/NavierStokes.Core/obj/project.nuget.cache
+/SDL.Tests/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache
