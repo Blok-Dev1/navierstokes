@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQqvKGEkEbU6vbJ+Crzl+BGcntwb7YHtUMaxnuio37yULi0nz5DeNHCMOg7VCGpUa5TtqJ+LZmeZ/pdpp2xZOw==",
+  "dgSpecHash": "wt7S6jsxt3nlbsEzp80QUjY74GJgXOQegMCQTrknwA7oxcsgh1zfB55NpQU6mCLdssHA3nH1vS6K5tO5OO/eHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zspsl\\source\\repos\\NavierStokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
+  "projectFilePath": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

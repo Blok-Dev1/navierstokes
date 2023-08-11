@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Zspsl\\.nuget\\packages\\": {}
+    "C:\\Users\\zspsl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zspsl\\source\\repos\\NavierStokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
+      "projectUniqueName": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
       "projectName": "NavierStokes.Core",
-      "projectPath": "C:\\Users\\Zspsl\\source\\repos\\NavierStokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
-      "packagesPath": "C:\\Users\\Zspsl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zspsl\\source\\repos\\NavierStokes\\NavierStokes.Core\\obj\\",
+      "projectPath": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
+      "packagesPath": "C:\\Users\\zspsl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Zspsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zspsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/MineRP-Pty-Ltd/Spatial/_packaging/Spatial-Feed/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }

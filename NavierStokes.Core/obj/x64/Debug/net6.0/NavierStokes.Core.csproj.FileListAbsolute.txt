@@ -1,0 +1,12 @@
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\bin\x64\Debug\net6.0\NavierStokes.Core.deps.json
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\bin\x64\Debug\net6.0\NavierStokes.Core.dll
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\bin\x64\Debug\net6.0\NavierStokes.Core.pdb
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.csproj.AssemblyReference.cache
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.AssemblyInfoInputs.cache
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.AssemblyInfo.cs
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.csproj.CoreCompileInputs.cache
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.dll
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\refint\NavierStokes.Core.dll
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\NavierStokes.Core.pdb
+C:\Users\zspsl\Source\Repos\navierstokes\NavierStokes.Core\obj\x64\Debug\net6.0\ref\NavierStokes.Core.dll
