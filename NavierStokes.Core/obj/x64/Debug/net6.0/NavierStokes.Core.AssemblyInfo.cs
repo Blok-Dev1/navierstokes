@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NavierStokes.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2971af6ad523c58053e06c9cadd382d866e02e5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NavierStokes.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NavierStokes.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

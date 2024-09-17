@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
+      "projectUniqueName": "C:\\Users\\zspsl\\source\\repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
       "projectName": "NavierStokes.Core",
-      "projectPath": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
+      "projectPath": "C:\\Users\\zspsl\\source\\repos\\navierstokes\\NavierStokes.Core\\NavierStokes.Core.csproj",
       "packagesPath": "C:\\Users\\zspsl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zspsl\\Source\\Repos\\navierstokes\\NavierStokes.Core\\obj\\",
+      "outputPath": "C:\\Users\\zspsl\\source\\repos\\navierstokes\\NavierStokes.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zspsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Epiroc-MineRP/Evaluation/_packaging/Evaluation.Client.API/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Epiroc-MineRP/Planner/_packaging/Consilium.Client.PlanningDataProxy/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -40,6 +43,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

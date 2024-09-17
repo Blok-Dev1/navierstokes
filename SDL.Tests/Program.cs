@@ -140,8 +140,6 @@ namespace SDL.Tests
                 {
                     PollEvents();
 
-                    //Render();
-
                     RenderSPH();
                 }
             }
@@ -355,7 +353,9 @@ namespace SDL.Tests
 
         static void draw_circle(int n_cx, int n_cy, int radius, byte r, byte g, byte b)
         {
-           
+            // invert
+            n_cx = WIDTH - n_cx;
+            n_cy = HEIGHT - n_cy;
 
             // if the first pixel in the screen is represented by (0,0) (which is in sdl)
             // remember that the beginning of the circle is not in the middle of the pixel

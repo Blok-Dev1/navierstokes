@@ -2,7 +2,6 @@ C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.exe.c
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.exe
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\bin\x64\Debug\SDL.Tests.pdb
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.AssemblyReference.cache
-C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.SuggestedBindingRedirects.cache
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.exe
 C:\Users\Zspsl\source\repos\NavierStokes\SDL.Tests\obj\x64\Debug\SDL.Tests.pdb
